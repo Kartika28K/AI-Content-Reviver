@@ -80,7 +80,10 @@ The application requires one environment variable:
 
 📷 Application Preview
 
-<img width="948" height="806" alt="Screenshot 2026-07-04 165321" src="https://github.com/user-attachments/assets/b0067450-8973-440e-902e-296b29d7cbfb" />
+
+
+<img width="964" height="903" alt="Screenshot 2026-07-04 165025" src="https://github.com/user-attachments/assets/bcd99765-f671-49a6-8443-b75e65cf2c7a" />
+
 
 
 
