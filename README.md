@@ -92,8 +92,6 @@ The application requires one environment variable:
 * User authentication
 * Content history
 * Export generated content as PDF or TXT
-* Hashtag generation
-* AI-generated captions with image suggestions
 * Multiple language support
 
 👩‍💻 Author
